@@ -12,7 +12,9 @@ public class Main {
         }
         if (reini || tempirature < 13) {
             System.out.println("go to home ");
+
         }
+        //HI SENSEI
          if (student > 20 || tempirature>5 &&tempirature<40)
     {
              System.out.println("go to park");
